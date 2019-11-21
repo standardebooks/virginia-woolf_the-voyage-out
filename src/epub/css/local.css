@@ -6,7 +6,7 @@ abbr.time{
 }
 
 .signature,
-[epub|type~="z3998:salutation"]
+[epub|type~="z3998:salutation"],
 [epub|type~="z3998:valediction"]{
 	font-variant: small-caps;
 }
