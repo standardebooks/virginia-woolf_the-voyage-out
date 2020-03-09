@@ -56,8 +56,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/144</dc:source>
 		<dc:source>https://archive.org/details/voyageout01woolgoog</dc:source>
-		<meta property="se:word-count">139127</meta>
-		<meta property="se:reading-ease.flesch">71.44</meta>
+		<meta property="se:word-count">139128</meta>
+		<meta property="se:reading-ease.flesch">71.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Voyage_Out</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_the-voyage-out</meta>
 		<dc:creator id="author">Virginia Woolf</dc:creator>
