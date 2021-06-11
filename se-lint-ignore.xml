@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-9.xhtml">
+		<ignore>
+			<code>s-045</code>
+			<reason>Since they begin a sentence, they can be uppercased.</reason>
+		</ignore>
+		<ignore>
+			<code>t-062</code>
+			<reason>Since they begin a sentence, they can be uppercased.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
