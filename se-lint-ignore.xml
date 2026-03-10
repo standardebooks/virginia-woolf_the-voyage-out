@@ -2,9 +2,11 @@
 <se-lint-ignore>
 	<file path="chapter-9.xhtml">
 		<ignore code="s-045">
+			<line>18</line>
 			<reason>Since they begin a sentence, they can be uppercased.</reason>
 		</ignore>
 		<ignore code="t-062">
+			<line>18</line>
 			<reason>Since they begin a sentence, they can be uppercased.</reason>
 		</ignore>
 	</file>
